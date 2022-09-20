@@ -1,4 +1,15 @@
-.MostOutherDiv{
+.mostOutherDiv {
   display: flex;
-  color:red;
+  width: 50%;
+  height: 50%;
+  background-color: lightblue;
+}
+
+.header {
+  background-color: rgb(78, 67, 09);
+  background-color: rgb(56, 78, 90);
+}
+
+.subtitle {
+  background-color: rgb(100, 0, 0);
 }
